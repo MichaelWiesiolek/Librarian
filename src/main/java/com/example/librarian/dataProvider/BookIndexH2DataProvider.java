@@ -6,13 +6,14 @@ import com.example.librarian.service.BooksService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.core.io.Resource;
+import org.springframework.stereotype.Component;
 
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.time.LocalDate;
 import java.util.List;
 import java.util.stream.Collectors;
-
+@Component
 public class BookIndexH2DataProvider implements ComandLineRunner {
     private final BooksRepository booksRepository;
     private final BooksService booksService;

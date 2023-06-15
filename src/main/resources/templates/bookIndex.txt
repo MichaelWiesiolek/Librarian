@@ -1,0 +1,28 @@
+Harper Lee,To Kill a Mockingbird,J. B. Lippincott & Co.,Fiction,1960,07,11
+George Orwell,1984,Secker & Warburg,Dystopian Fiction,1949,06,08
+F. Scott Fitzgerald,The Great Gatsby,Charles Scribner's Sons,Fiction,1925,04,10
+Jane Austen,Pride and Prejudice,T. Egerton & Whitehall,Classic Fiction,1813,01,28
+J.K. Rowling,Harry Potter and the Philosopher's Stone,Bloomsbury Publishing,Fantasy,1997,06,26
+J.D. Salinger,The Catcher in the Rye,Little. Brown and Company,Fiction,1951,07,16
+J.R.R. Tolkien,The Hobbit,Allen & Unwin,Fantasy,1937,09,21
+Dan Brown,The Da Vinci Code,Doubleday,Thriller,2003,03,18
+Alexandra Christo,To Kill a Kingdom,Feiwel & Friends,Young Adult Fantasy,2018,03,06
+Gabriel García Márquez,One Hundred Years of Solitude,Harper & Row,Fiction,1967,05,30
+Leo Tolstoy,War and Peace,The Russian Messenger,Historical Fiction,1869,01,01
+Suzanne Collins,The Hunger Games,Scholastic Corporation,Young Adult Science Fiction,2008,09,14
+Mark Twain,The Adventures of Huckleberry Finn,Charles L. Webster and Company,Adventure Fiction,1884,12,10
+Margaret Atwood,The Handmaid's Tale,McClelland and Stewart,Dystopian Fiction,1985,01,01
+Ernest Hemingway,The Old Man and the Sea,Charles Scribner's Sons,Fiction,1952,09,01
+Virginia Woolf,Mrs Dalloway,Hogarth Press,Modernist Literature,1925,03,14
+Aldous Huxley,Brave New World,Chatto & Windus,Dystopian Fiction,1932,01,01
+Charlotte Brontë,Jane Eyre,Smith. Elder & Co.,Gothic Fiction,1847,10,16
+William Shakespeare,Romeo and Juliet,Thomas Creede,Tragedy,1597,02,02
+John Steinbeck,Of Mice and Men,Covici Friede,Fiction,1937,03,03
+Arthur Golden,Memoirs of a Geisha,Alfred A. Knopf,Historical Fiction,1997,09,27
+Ray Bradbury,Fahrenheit 451,Ballantine Books,Dystopian Fiction,1953,10,19
+Herman Melville,Moby-Dick,Richard Bentley,Fiction,1851,10,18
+Roald Dahl,Charlie and the Chocolate Factory,Alfred A. Knopf,Children's Fiction,1964,04,04
+Jane Austen,Emma,John Murray,Classic Fiction,1815,12,23
+Mary Shelley,Frankenstein,Lackington. Hughes. Harding. Mavor & Jones,Gothic Fiction,1818,01,01
+J.R.R. Tolkien,The Lord of the Rings,Allen & Unwin,Fantasy,1954,07,29
+Agatha Christie,Murder on the Orient Express,Collins Crime Club,Mystery Fiction,1996,01,01

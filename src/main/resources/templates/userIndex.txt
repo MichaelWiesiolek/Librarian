@@ -1,0 +1,4 @@
+Andrzej Kowalski,Andrzej@gmail.com,55566777,asdf1234,USER
+Magdalena Kowal,mkow@onet.pl,111222444,kowal123,USER
+Waldemar Kiepski,kwaldziu@wp.pl,987654321,iksde,USER
+Konstantyn Jarosz,kjar@gmail.com,888222555,jar0sz,ADMIN

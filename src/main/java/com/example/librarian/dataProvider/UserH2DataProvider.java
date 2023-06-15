@@ -1,28 +1,35 @@
 package com.example.librarian.dataProvider;
 
+import com.example.librarian.enums.UserRole;
+import com.example.librarian.repository.UserRepository;
+import com.example.librarian.repository.dao.UserEntity;
+import com.example.librarian.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.CommandLineRunner;
+import org.springframework.core.io.Resource;
+import org.springframework.security.crypto.password.PasswordEncoder;
+import org.springframework.stereotype.Component;
 
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.util.Arrays;
+import java.util.List;
 import java.util.stream.Collectors;
+@Component
+public class UserH2DataProvider implements CommandLineRunner {
+    private final UserRepository userRepository;
+    private final UserService userService;
+    private final PasswordEncoder passwordEncoder;
 
-private final UserRepository userRepository;
-private final UserService userService;
-private final PasswordEncoder passwordEncoder;
-
-@Autowired
-public UserH2DataProvider(UserRepository userRepository, UserService userService, PasswordEncoder passwordEncoder) {
+    @Autowired
+    public UserH2DataProvider(UserRepository userRepository, UserService userService, PasswordEncoder passwordEncoder) {
         this.userRepository = userRepository;
         this.userService = userService;
         this.passwordEncoder = passwordEncoder;
-        }
-@Value("classpath:userIndex.txt")
-private Resource resource;
-public class UsrH2DataProvider implements CommandLineRunner {
-
+    }
+    @Value("classpath:userIndex.txt")
+    private Resource resource;
     @Override
     public void run(String... args) throws Exception {
         String filePathString = resource.getFile().getPath();

@@ -1,5 +1,7 @@
 package com.example.librarian.controller;
 
+import com.example.librarian.repository.dao.ReservationEntity;
+import com.example.librarian.service.ReservationService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.RequestMapping;
